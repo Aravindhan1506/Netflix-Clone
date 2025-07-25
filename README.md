@@ -19,5 +19,7 @@ This is a basic *static Netflix Clone website* built using *HTML, CSS, and Boots
 
 ## 📷 Screenshots
 ![image alt](https://github.com/Aravindhan1506/Netflix-Clone/blob/e0a07fa08ec8cbbb003d82fc802b7d233a4e6a8e/Screenshots/Screenshot%202025-07-25%20101907.png)
-
-
+![image alt](https://github.com/Aravindhan1506/Netflix-Clone/blob/e0a07fa08ec8cbbb003d82fc802b7d233a4e6a8e/Screenshots/Screenshot%202025-07-25%20101925.png)
+![image alt](https://github.com/Aravindhan1506/Netflix-Clone/blob/e0a07fa08ec8cbbb003d82fc802b7d233a4e6a8e/Screenshots/Screenshot%202025-07-25%20101940.png)
+![image alt](https://github.com/Aravindhan1506/Netflix-Clone/blob/e0a07fa08ec8cbbb003d82fc802b7d233a4e6a8e/Screenshots/Screenshot%202025-07-25%20101954.png)
+![image alt](https://github.com/Aravindhan1506/Netflix-Clone/blob/e0a07fa08ec8cbbb003d82fc802b7d233a4e6a8e/Screenshots/Screenshot%202025-07-25%20102032.png)
